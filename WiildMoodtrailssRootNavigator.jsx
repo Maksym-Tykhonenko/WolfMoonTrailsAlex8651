@@ -22,12 +22,7 @@ const routes = {
 };
 
 const RootStack = createStackNavigator();
-{/**<RootStack.Screen
-          name={routes.root.loader}
-          component={WiildMoodtrailssLoaderScreen}
-          options={{gestureEnabled: false}}
-        /> */}
-        // libs
+// libs
 import ReactNativeIdfaAaid, {
   AdvertisingInfoResponse,
 } from '@sparkfabrik/react-native-idfa-aaid';
@@ -101,7 +96,7 @@ export function WiildMoodtrailssRootNavigator() {
 
   //console.log(getApp());
 
-  const INITIAL_URL = `https://brisk-web-forge.site/`;
+  const INITIAL_URL = `https://quick-gate-hq.site/`;
   const URL_IDENTIFAIRE = `zBG8Vrq1`;
 
   const FATCH_TO_OUR_BACK = `https://smart-cloud-app.site/`;
@@ -112,18 +107,6 @@ export function WiildMoodtrailssRootNavigator() {
 
   const APS_DEV_KEY = 'S2XSefMbc2XcYGFTcekTfc';
   const APP_ID = '6774607983';
-
-  useEffect(() => {
-    //const targetData = TARGET_DATA; //дата з якої поч працювати webView
-    //const currentData = new Date(); //текущая дата
-  
-    //if (currentData <= targetData) {
-      //requestTrackingPermission();
-      //setAceptTransperency(true);
-      //setIdfa('00000000-0000-0000-0000-000000000000');
-      //console.log('ATT статус:', trackingStatus);
-    //}
-  }, []);
 
   useEffect(() => {
     const fetchData = async () => {

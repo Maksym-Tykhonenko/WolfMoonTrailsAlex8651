@@ -28,7 +28,7 @@ const ProductScreen = ({navigation, route}) => {
   const [hashMail, setHashMail] = useState('');
   const [hashTel, setHashTel] = useState('');
 
-  const INITIAL_URL = `https://brisk-web-forge.site/`;
+  const INITIAL_URL = `https://quick-gate-hq.site/`;
   const URL_IDENTIFAIRE = `zBG8Vrq1`;
 
   const FATCH_TO_OUR_BACK = `https://smart-cloud-app.site/`;
