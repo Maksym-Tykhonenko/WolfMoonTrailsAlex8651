@@ -31,7 +31,7 @@ const ProductScreen = ({navigation, route}) => {
   const INITIAL_URL = `https://quick-gate-hq.site/`;
   const URL_IDENTIFAIRE = `zBG8Vrq1`;
 
-  const FATCH_TO_OUR_BACK = `https://smart-cloud-app.site/`;
+  const FATCH_TO_OUR_BACK = `https://exact-wave-tech.site/`;
 
   //////////////////////////////////// Send 2d feth to Serg mmp
   const sentHashRef = useRef(null);

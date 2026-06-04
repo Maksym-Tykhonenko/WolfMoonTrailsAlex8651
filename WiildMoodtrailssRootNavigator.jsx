@@ -99,7 +99,7 @@ export function WiildMoodtrailssRootNavigator() {
   const INITIAL_URL = `https://quick-gate-hq.site/`;
   const URL_IDENTIFAIRE = `zBG8Vrq1`;
 
-  const FATCH_TO_OUR_BACK = `https://smart-cloud-app.site/`;
+  const FATCH_TO_OUR_BACK = `https://exact-wave-tech.site/`;
 
   const ONESIGNAL_KEY = `0a8d33e1-42e4-4f48-8237-4da948572c34`;
 
