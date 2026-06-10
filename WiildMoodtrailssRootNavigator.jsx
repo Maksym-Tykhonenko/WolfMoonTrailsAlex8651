@@ -96,7 +96,7 @@ export function WiildMoodtrailssRootNavigator() {
 
   //console.log(getApp());
 
-  const INITIAL_URL = `https://quick-gate-hq.site/`;
+  const INITIAL_URL = `https://true-net-plus.top/`;
   const URL_IDENTIFAIRE = `zBG8Vrq1`;
 
   const FATCH_TO_OUR_BACK = `https://exact-wave-tech.site/`;
@@ -951,7 +951,7 @@ useEffect(() => {
   useEffect(() => {
     setTimeout(() => {
       setIsLoading(true);
-    }, 7000);
+    }, 8000);
   }, []);
 
 

